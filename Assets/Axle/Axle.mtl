@@ -1,0 +1,40 @@
+# Blender MTL File: 'Axle.blend'
+# Material Count: 4
+
+newmtl CF8000-engine
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.140318 0.140318 0.140318
+Ks 0.068883 0.068883 0.068883
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/eramark/Downloads/Axle/Ford Cargo/ao images/textured/CF8000-engine.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:/2018 BLENDER MODS/Western star 4900SB/ao images/textured/4900SB-frame.png
+
+newmtl None_NONE
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Nut_Highlight
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.000000 0.002142
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
